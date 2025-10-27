@@ -55,3 +55,5 @@ npm start
 Acesse: http://localhost:3000
 
 💡 Dica: se quiser recomeçar com as turmas padrão (A/B/C), apague data/db.json antes de rodar.
+
+https://gamma.app/docs/Sistema-de-Gestao-para-Escola-Noturna-s8jetqqehy6ihk7?mode=doc
