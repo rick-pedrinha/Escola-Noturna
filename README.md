@@ -50,7 +50,7 @@ git clone https://github.com/SEU_USUARIO/escola-noturna-mvc.git
 cd escola-noturna-mvc
 npm install
 npm start
-
+npm install multer express
 
 Acesse: http://localhost:3000
 
